@@ -8,7 +8,7 @@
     "start": "node api.js"
   },
   "dependencies": {
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "boom": "^7.3.0",
     "dotenv": "^7.0.0",
     "hapi": "^18.1.0",
